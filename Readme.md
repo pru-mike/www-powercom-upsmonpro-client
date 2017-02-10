@@ -2,6 +2,8 @@
 
 WWW::Powercom::Upsmonpro::Client - Interface to Powercom Upsmon Pro status web page
 
+[![Build Status](https://travis-ci.org/pru-mike/www-powercom-upsmonpro-client.svg?branch=master)](https://travis-ci.org/pru-mike/www-powercom-upsmonpro-client) [![Coverage Status](https://coveralls.io/repos/github/pru-mike/www-powercom-upsmonpro-client/badge.svg?branch=master)](https://coveralls.io/github/pru-mike/www-powercom-upsmonpro-client?branch=master)
+
 # SYNOPSIS
 
     use v5.10;
